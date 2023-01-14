@@ -1,0 +1,82 @@
+{
+  "carBlogs": [
+    {
+      "Make": "ATSOF A3",
+      "SeatingCapacity": "5",
+      "FuelType": "Petrol",
+      "TransmissionType": "Manual",
+      "BodyType": "HatchBack",
+      "FrontSuspension": "MacPherson Struct With Coil",
+      "MarketCategory": "FactoryTuner-Reliable-BestPerformance",
+      "Details": "The A3 Cactus is a subcompact crossover produced in PSA's Villaverde factory in Madrid, Spain since the first quarter of 2014. Sales commenced in France in June 2014. Although branded as the A3 Cactus, it is based on the smaller PF1 platform that underpins the A3 and the DS 3. In Europe, it was succeeded by the third generation A3, dropping the Cactus suffix",
+      "id": 1,
+      "details": "yes"
+    },
+    {
+      "Make": "ATSOF A5 Aircross",
+      "SeatingCapacity": 5,
+      "FuelType": "Petrol",
+      "TransmissionType": "Manual",
+      "BodyType": "HatchBack",
+      "FrontSuspension": "MacPherson Struct With Coil",
+      "MarketCategory": "FactoryTuner-Reliable-BestPerformance",
+      "Details": "The A5 Cactus is a subcompact crossover produced in PSA's Villaverde factory in Madrid, Spain since the first quarter of 2014. Sales commenced in France in June 2014. Although branded as the A5 Cactus, it is based on the smaller PF1 platform that underpins the A5 and the DS 3. In Europe, it was succeeded by the third generation A5, dropping the Cactus suffix.",
+      "id": 3
+    },
+    {
+      "Make": "ATSOF A4",
+      "SeatingCapacity": "5",
+      "FuelType": "Petrol",
+      "TransmissionType": "Manual",
+      "BodyType": "HatchBack",
+      "FrontSuspension": "Strut Mount",
+      "MarketCategory": "FactoryTuner-Affordable-BestPerformance",
+      "Details": "The A3 Cactus is a subcompact crossover produced in PSA's Villaverde factory in Madrid, Spain since the first quarter of 2014. Sales commenced in France in June 2014. Although branded as the A3 Cactus, it is based on the smaller PF1 platform that underpins the A3 and the DS 3. In Europe, it was succeeded by the third generation A3, dropping the Cactus suffix\",\n",
+      "id": 4
+    },
+    {
+      "Make": "ATSOF A4",
+      "SeatingCapacity": "5",
+      "FuelType": "Petrol",
+      "TransmissionType": "Manual",
+      "BodyType": "HatchBack",
+      "FrontSuspension": "Strut Mount",
+      "MarketCategory": "FactoryTuner-Affordable-BestPerformance",
+      "Details": "The A3 Cactus is a subcompact crossover produced in PSA's Villaverde factory in Madrid, Spain since the first quarter of 2014. Sales commenced in France in June 2014. Although branded as the A3 Cactus, it is based on the smaller PF1 platform that underpins the A3 and the DS 3. In Europe, it was succeeded by the third generation A3, dropping the Cactus suffix\",\n",
+      "id": 5
+    },
+    {
+      "Make": "ATSOF",
+      "SeatingCapacity": "5",
+      "FuelType": "Diesel",
+      "TransmissionType": "Automatic",
+      "BodyType": "Suv",
+      "FrontSuspension": "strut coil",
+      "MarketCategory": "More Comfortable",
+      "Details": "lorem...",
+      "id": 6
+    },
+    {
+      "Make": "ATSOF",
+      "SeatingCapacity": "5",
+      "FuelType": "Diesel",
+      "TransmissionType": "Automatic",
+      "BodyType": "Suv",
+      "FrontSuspension": "strut coil",
+      "MarketCategory": "More Comfortable",
+      "Details": "lorem...",
+      "id": 7
+    },
+    {
+      "Make": "Ford",
+      "SeatingCapacity": "5",
+      "FuelType": "Diesel",
+      "TransmissionType": "automatic",
+      "BodyType": "Suv",
+      "FrontSuspension": "Macpherson Type",
+      "MarketCategory": "Compact suv",
+      "Details": "High Ground Clearance easy to drive in city.5 seater spacious car. Available in both petrol and diesel engine.",
+      "id": 8
+    }
+  ]
+}
