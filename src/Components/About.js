@@ -1,7 +1,7 @@
 function About(){
     return(
         <div className="container">
-            <h2>ABOUT</h2>
+            <h2>ABOUT - Company</h2>
             <p>
             The ATSOF A5 is a large family car (classified as a crossover station wagon since 2021)
             produced by the French manufacturer Citroën since March 2001, currently at its third generation.
